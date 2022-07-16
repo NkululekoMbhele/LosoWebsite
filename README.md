@@ -6,5 +6,6 @@
 </p>
 
 <img width="100" height="auto" src="https://raw.githubusercontent.com/NkululekoMbhele/LosoWebsite/master/images/screenshots/Screenshot%202022-07-16%20150556.png" />
+![test image size]<img src="https://raw.githubusercontent.com/NkululekoMbhele/LosoWebsite/master/images/screenshots/Screenshot%202022-07-16%20150556.png" width="400" height="790">
 
 
