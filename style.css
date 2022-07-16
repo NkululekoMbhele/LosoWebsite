@@ -54,7 +54,7 @@ p {
 /* header section css */
 
 .header {
-    background-image: url("../images/header-bg.jpg");
+    background-image: url("./images/header-bg.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 50% 50%;
